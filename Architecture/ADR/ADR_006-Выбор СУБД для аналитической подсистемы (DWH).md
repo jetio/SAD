@@ -44,6 +44,7 @@ DONE
 * [Comparison Chart](https://sourceforge.net/software/compare/Apache-Pinot-vs-ClickHouse-vs-Firebolt-vs-Snowflake/)
 * [Druid vs Pinot: Choosing the best database for Real-Time Analytics](https://imply.io/blog/choosing-a-database-for-real-time-analytics-druid-and-pinot/)
 * [Architecture](https://startree.ai/blog/a-tale-of-three-real-time-olap-databases)
+* [Apache Pinot Architecture](https://www.decipherzone.com/blog-detail/apache-pinot-architecture)
 
 
 ## Measurements (Измерения)
