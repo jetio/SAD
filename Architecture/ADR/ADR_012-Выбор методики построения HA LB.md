@@ -13,9 +13,9 @@ DONE
 Получим стандартизованный и широко поддерживаемый подход к организации HA LB.
 
 ## Metainformation (Заметки)
-* (Achieving High Availability with HAProxy and Keepalived: Building a Redundant Load Balancer)[https://sysadmins.co.za/achieving-high-availability-with-haproxy-and-keepalived-building-a-redundant-load-balancer/]
-* (HA of Haproxy - Using Keepalived VRRP)[https://accelazh.github.io/loadbalance/HA-Of-Haproxy-Using-Keepalived-VRRP]
-* (NGINX. High Availability)[https://www.nginx.com/products/nginx/high-availability/]
+* [Achieving High Availability with HAProxy and Keepalived: Building a Redundant Load Balancer](https://sysadmins.co.za/achieving-high-availability-with-haproxy-and-keepalived-building-a-redundant-load-balancer/)
+* [HA of Haproxy - Using Keepalived VRRP](https://accelazh.github.io/loadbalance/HA-Of-Haproxy-Using-Keepalived-VRRP)
+* [NGINX. High Availability](https://www.nginx.com/products/nginx/high-availability/)
 * [MySQL load balancing with HAProxy](https://severalnines.com/resources/whitepapers/mysql-load-balancing-with-haproxy/)
 
 ## Measurements (Измерения)
